@@ -1,4 +1,4 @@
-# presentation
+#connection a un esp32
 import machine
 led = machine.Pin(18,machine.Pin.OUT)
 led.off()
